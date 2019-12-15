@@ -9,7 +9,7 @@ UCB Data Analytics - Anaconda - Pandas and Python
 # How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 ## R: It is impacting severely Thomas High School as this is dropping to 5 bottom, allowing another school to come ton top with similar grades 
 # How does removing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type?  
-## R: Again the impact is only to Thomas HS other schools and summary reports are showing minimal impact by one point. This can tell us that due to the data being so similar on others taking Thomas HS it is not making a big impact to the overall information.
+## R: Again the impact is only to Thomas HS other schools and summary reports are showing minimal impact by one point. This can tell us that due to the data being so similar to others taking Thomas HS it is not making a big impact on the overall information.
 
 To answer the questions above, you will need to repeat some of the steps you did during the module:
 
