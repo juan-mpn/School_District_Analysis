@@ -1,6 +1,6 @@
-# School_District_Analysis
+# School_District_Analysis Challenge
 UCB Data Analytics - Anaconda - Pandas and Python
-# Quetions and Data Analysis
+# Questions and Data Analysis
 # After removing the reading and math scores, answer the following questions:
 # How is the district summary affected?
 ## R: Very minimal impact to the school district one point reduction overall
