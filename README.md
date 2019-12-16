@@ -34,7 +34,7 @@ Huang High School	District	2917	$1,910,635.00	$655.00	76.629414	81.182722	65.683
 Johnson High School	District	4761	$3,094,650.00	$650.00	77.072464	80.966394	66.057551	81.222432	73.639992
 
 # How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
-## R: It is impacting severely Thomas High School as this is dropping to 5 bottom, allowing another school to come ton top with similar grades 
+## R: It is impacting severely Thomas High School as this is dropping to 5 bottom from a **95%** to a **68%** Overall, allowing another school to come ton top with similar grades.
 
 
 # How does removing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type?  
